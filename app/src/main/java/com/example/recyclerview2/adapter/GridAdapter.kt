@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.recyclerview2.R
+import com.example.recyclerview2.model.Football
 import com.example.recyclerview2.model.Grid
 
 class GridAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
